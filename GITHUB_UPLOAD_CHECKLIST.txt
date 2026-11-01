@@ -1,0 +1,12 @@
+GITHUB UPLOAD CHECKLIST
+Repository name: customer-service-performance-dashboard
+Visibility: Public
+Description: Excel dashboard analysing fictional customer service tickets, CSAT, first-contact resolution, complaints, response times and agent performance.
+
+Upload:
+- README.md
+- Customer_Service_Performance_Dashboard.xlsx
+- Project_Insights_and_Methodology.docx
+
+Commit message: Add Customer Service Performance Dashboard project
+Keep the fictional-data disclaimer visible.
